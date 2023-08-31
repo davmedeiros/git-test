@@ -1,3 +1,2 @@
-# git-test
-TOP - Git Test
+# TOP - Educational Project - Git Test
 Hello Odin!
